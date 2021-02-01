@@ -1,0 +1,8609 @@
+{
+	"#Deutschland": {
+		"total": 49,
+		"AfD": 12,
+		"CDU": 37
+	},
+	"#AfD": {
+		"total": 134,
+		"AfD": 122,
+		"CDU": 1,
+		"dieLinke": 1,
+		"JA_Deutschland": 3,
+		"Junge_Union": 2,
+		"jusos": 3,
+		"lijusolid": 1,
+		"spdde": 1
+	},
+	"#Digitalpakt": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Schule": {
+		"total": 5,
+		"AfD": 1,
+		"CDU": 1,
+		"dieLinke": 2,
+		"jungeliberale": 1
+	},
+	"#Abschiebungen": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Rechtsstaat": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Asyl": {
+		"total": 7,
+		"AfD": 7
+	},
+	"#Geheimpapier": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Scholz": {
+		"total": 5,
+		"AfD": 3,
+		"jusos": 1,
+		"lijusolid": 1
+	},
+	"#Skandal": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Wirecard": {
+		"total": 6,
+		"AfD": 3,
+		"dieLinke": 1,
+		"fdp": 2
+	},
+	"#Corona": {
+		"total": 388,
+		"AfD": 50,
+		"CDU": 242,
+		"dieLinke": 55,
+		"Die_Gruenen": 12,
+		"fdp": 13,
+		"jungeliberale": 10,
+		"Junge_Union": 1,
+		"jusos": 2,
+		"spdde": 3
+	},
+	"#CDU": {
+		"total": 227,
+		"AfD": 11,
+		"CDU": 188,
+		"dieLinke": 19,
+		"jusos": 9
+	},
+	"#Fachkommission": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Integrationsfähigkeit": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Impfstoff": {
+		"total": 22,
+		"AfD": 1,
+		"CDU": 9,
+		"dieLinke": 2,
+		"fdp": 3,
+		"jungeliberale": 1,
+		"jusos": 3,
+		"spdde": 3
+	},
+	"#Merkel": {
+		"total": 156,
+		"AfD": 34,
+		"CDU": 115,
+		"dieLinke": 5,
+		"jusos": 2
+	},
+	"#Wundrak": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Zuwanderung": {
+		"total": 3,
+		"AfD": 2,
+		"fdp": 1
+	},
+	"#Verfassungsschutz": {
+		"total": 6,
+		"AfD": 4,
+		"jusos": 2
+	},
+	"#Auschwitz": {
+		"total": 10,
+		"AfD": 2,
+		"CDU": 5,
+		"gruene_jugend": 2,
+		"jusos": 1
+	},
+	"#Politik": {
+		"total": 4,
+		"AfD": 3,
+		"CDU": 1
+	},
+	"#Insolvenz": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Altparteien": {
+		"total": 10,
+		"AfD": 10
+	},
+	"#Ramelow": {
+		"total": 6,
+		"AfD": 1,
+		"CDU": 3,
+		"dieLinke": 2
+	},
+	"#CandyCrush": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#candycrushgate": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#SPD": {
+		"total": 14,
+		"AfD": 10,
+		"dieLinke": 2,
+		"jusos": 2
+	},
+	"#Antifa": {
+		"total": 13,
+		"AfD": 10,
+		"dieLinke": 3
+	},
+	"#Asylbewerber": {
+		"total": 5,
+		"AfD": 5
+	},
+	"#NULL": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Thüringen": {
+		"total": 32,
+		"AfD": 9,
+		"CDU": 10,
+		"dieLinke": 6,
+		"Die_Gruenen": 1,
+		"gruene_jugend": 2,
+		"JA_Deutschland": 1,
+		"jusos": 3
+	},
+	"#Kindergeld": {
+		"total": 4,
+		"AfD": 1,
+		"CDU": 2,
+		"dieLinke": 1
+	},
+	"#Ausland": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Maaßen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Gramm": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Sprache": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#verfassungstreu": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Telegram": {
+		"total": 3,
+		"AfD": 2,
+		"dieLinke": 1
+	},
+	"#Laschet": {
+		"total": 6,
+		"AfD": 1,
+		"dieLinke": 3,
+		"JA_Deutschland": 1,
+		"jusos": 1
+	},
+	"#cdupt21": {
+		"total": 56,
+		"AfD": 1,
+		"CDU": 48,
+		"dieLinke": 1,
+		"fdp": 1,
+		"JA_Deutschland": 3,
+		"Junge_Union": 1,
+		"jusos": 1
+	},
+	"#CDUVorsitz": {
+		"total": 35,
+		"AfD": 1,
+		"CDU": 32,
+		"dieLinke": 2
+	},
+	"#Berlin": {
+		"total": 21,
+		"AfD": 13,
+		"CDU": 4,
+		"dieLinke": 1,
+		"gruene_jugend": 1,
+		"JA_Deutschland": 1,
+		"jusos": 1
+	},
+	"#Migrantenquote": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Blackout": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Türkei": {
+		"total": 5,
+		"AfD": 2,
+		"CDU": 1,
+		"dieLinke": 1,
+		"jungeliberale": 1
+	},
+	"#Reichsgruendung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bundesregierung": {
+		"total": 38,
+		"AfD": 10,
+		"CDU": 17,
+		"dieLinke": 10,
+		"fdp": 1
+	},
+	"#Wirtschaft": {
+		"total": 24,
+		"AfD": 3,
+		"CDU": 15,
+		"fdp": 6
+	},
+	"#BIP": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Mittelständler": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Existenz": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Migrantenkrawalle": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Brüssel": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Polizei": {
+		"total": 22,
+		"AfD": 11,
+		"CDU": 4,
+		"dieLinke": 3,
+		"jusos": 3,
+		"lijusolid": 1
+	},
+	"#Bürokratie": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#PaulaHatZweiMamas": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Zensur": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Söder": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Lockdown": {
+		"total": 15,
+		"AfD": 6,
+		"CDU": 3,
+		"dieLinke": 2,
+		"fdp": 1,
+		"jungeliberale": 1,
+		"spdde": 2
+	},
+	"#Kanzlerin": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Böhmermann": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Überzensierung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Freiheit": {
+		"total": 17,
+		"AfD": 5,
+		"CDU": 3,
+		"fdp": 6,
+		"jungeliberale": 3
+	},
+	"#zensur": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Clan": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Duldung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Autobahn": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Scheuer": {
+		"total": 4,
+		"AfD": 1,
+		"dieLinke": 1,
+		"jungeliberale": 1,
+		"jusos": 1
+	},
+	"#Applaus": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Lernplattform": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Spahn": {
+		"total": 4,
+		"AfD": 2,
+		"CDU": 1,
+		"jusos": 1
+	},
+	"#GroKo": {
+		"total": 11,
+		"AfD": 9,
+		"jungeliberale": 2
+	},
+	"#Linke": {
+		"total": 10,
+		"AfD": 7,
+		"dieLinke": 2,
+		"lijusolid": 1
+	},
+	"#DDR": {
+		"total": 7,
+		"AfD": 6,
+		"CDU": 1
+	},
+	"#Mauer": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Kahane": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Juden": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Stasi": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#CO2": {
+		"total": 5,
+		"AfD": 3,
+		"fdp": 1,
+		"jungeliberale": 1
+	},
+	"#Mehrwertsteuer": {
+		"total": 7,
+		"AfD": 3,
+		"CDU": 2,
+		"fdp": 1,
+		"jusos": 1
+	},
+	"#Köln": {
+		"total": 4,
+		"AfD": 1,
+		"CDU": 2,
+		"gruene_jugend": 1
+	},
+	"#Partyszene": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Silvester": {
+		"total": 3,
+		"AfD": 2,
+		"dieLinke": 1
+	},
+	"#Aufschrei": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Weihnachten": {
+		"total": 3,
+		"AfD": 1,
+		"fdp": 2
+	},
+	"#afd": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#ARD": {
+		"total": 6,
+		"AfD": 4,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#ZDF": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Rundfunkbeitrag": {
+		"total": 4,
+		"AfD": 1,
+		"jungeliberale": 2,
+		"lijusolid": 1
+	},
+	"#Schulden": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Domstadt": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#GEZ": {
+		"total": 6,
+		"AfD": 6
+	},
+	"#Redaktionsleiter": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Wochenende": {
+		"total": 3,
+		"AfD": 2,
+		"CDU": 1
+	},
+	"#genderstudies": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Christenverfolgung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Groko": {
+		"total": 5,
+		"AfD": 1,
+		"dieLinke": 4
+	},
+	"#Wehrpflicht": {
+		"total": 2,
+		"AfD": 1,
+		"jungeliberale": 1
+	},
+	"#Bundeswehr": {
+		"total": 34,
+		"AfD": 3,
+		"CDU": 23,
+		"dieLinke": 4,
+		"gruene_jugend": 1,
+		"jungeliberale": 1,
+		"jusos": 1,
+		"lijusolid": 1
+	},
+	"#lockdown": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Impfungen": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Leipzig": {
+		"total": 10,
+		"AfD": 6,
+		"CDU": 3,
+		"jusos": 1
+	},
+	"#Grüne": {
+		"total": 5,
+		"AfD": 4,
+		"dieLinke": 1
+	},
+	"#Volksabstimmungen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Grundsatzprogramm": {
+		"total": 4,
+		"AfD": 1,
+		"CDU": 3
+	},
+	"#rechts": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Wahlplakate": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#GebauerRuecktritt": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Islamisten": {
+		"total": 5,
+		"AfD": 5
+	},
+	"#Frankreich": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Imam": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Generaldebatte": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Heizkosten": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Muslime": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Paty": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Nikolaus": {
+		"total": 3,
+		"AfD": 1,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Ehrenamt": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Steuerzahler": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Ebersberg": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Villa": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Flüchtlinge": {
+		"total": 8,
+		"AfD": 6,
+		"jungeliberale": 2
+	},
+	"#AfDVerbot": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#AfDVerbotJETZT": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#FDGO": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Masseneinwanderung": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#BAMF": {
+		"total": 4,
+		"AfD": 4
+	},
+	"#Klimawandel": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Öko": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Fridaysforfuture": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Leyen": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#lobby": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#blackrock": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#vonderleyen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#AfDBPT20": {
+		"total": 5,
+		"AfD": 5
+	},
+	"#Bundesparteitag": {
+		"total": 5,
+		"AfD": 4,
+		"fdp": 1
+	},
+	"#Kalkar": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Stream": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Propaganda": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#TagGegenGewaltAnFrauen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Impfzwang": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Linksextremismus": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Hamburg": {
+		"total": 19,
+		"AfD": 3,
+		"CDU": 12,
+		"dieLinke": 2,
+		"gruene_jugend": 1,
+		"Junge_Union": 1
+	},
+	"#Bundeskanzlerin": {
+		"total": 10,
+		"AfD": 1,
+		"CDU": 9
+	},
+	"#Bevölkerungsschutzgesetz": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Brandt": {
+		"total": 3,
+		"AfD": 1,
+		"CDU": 2
+	},
+	"#berlin1811": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#b1811": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#EUHaushalt": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Urteile": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#illegal": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Macron": {
+		"total": 4,
+		"AfD": 3,
+		"CDU": 1
+	},
+	"#EU": {
+		"total": 44,
+		"AfD": 17,
+		"CDU": 14,
+		"dieLinke": 1,
+		"Die_Gruenen": 1,
+		"fdp": 3,
+		"jungeliberale": 4,
+		"jusos": 2,
+		"lijusolid": 2
+	},
+	"#Euro": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Volkstrauertag": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Soldaten": {
+		"total": 3,
+		"AfD": 1,
+		"CDU": 1,
+		"Junge_Union": 1
+	},
+	"#Weltkriege": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Krieg": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Internet": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Pressefreiheit": {
+		"total": 3,
+		"AfD": 1,
+		"CDU": 1,
+		"jungeliberale": 1
+	},
+	"#Vattenfall": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Streitkräfte": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Frieden": {
+		"total": 6,
+		"AfD": 2,
+		"CDU": 3,
+		"dieLinke": 1
+	},
+	"#Bündnis": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Migration": {
+		"total": 4,
+		"AfD": 4
+	},
+	"#Schweigeminute": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Terror": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Wien": {
+		"total": 7,
+		"AfD": 2,
+		"CDU": 2,
+		"dieLinke": 1,
+		"jungeliberale": 1,
+		"jusos": 1
+	},
+	"#Anschlag": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#ISLAMISMUS": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Transgender": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Einhorn": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Greenwald": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Halloween2020": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Enthauptung": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Lehrern": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Lehrerverband": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Afghanistan": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Brandenburg": {
+		"total": 8,
+		"AfD": 5,
+		"dieLinke": 2,
+		"jusos": 1
+	},
+	"#Menschenverachtung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Lehrer": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Moschee": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Grundfunk": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Rundfunk": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Islamist": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Flüchtling": {
+		"total": 5,
+		"AfD": 5
+	},
+	"#Bildungspolitik": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Winter": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Medien": {
+		"total": 3,
+		"AfD": 2,
+		"CDU": 1
+	},
+	"#Bürgerpartei": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Rechtsextremisten": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#SWR": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Verschwörungstheorie": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Kita": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Duisburg": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Marxloh": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#BND": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Podcast": {
+		"total": 7,
+		"AfD": 3,
+		"CDU": 4
+	},
+	"#Kanzleramts": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Wahlrechtsreform": {
+		"total": 5,
+		"AfD": 1,
+		"dieLinke": 1,
+		"Die_Gruenen": 3
+	},
+	"#Bundestag": {
+		"total": 69,
+		"AfD": 17,
+		"CDU": 48,
+		"dieLinke": 2,
+		"jungeliberale": 1,
+		"spdde": 1
+	},
+	"#Wahlrecht": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Liebig34": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bergkarabach": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Doppelmoral": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#A49": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Orden": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Wiedervereinigung": {
+		"total": 5,
+		"AfD": 5
+	},
+	"#Einheit": {
+		"total": 5,
+		"AfD": 3,
+		"fdp": 2
+	},
+	"#Revolution": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#China": {
+		"total": 6,
+		"AfD": 2,
+		"CDU": 1,
+		"fdp": 1,
+		"jungeliberale": 2
+	},
+	"#FAZ": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Vaterland": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Werte": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Lüth": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#dmark": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#podcast": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#politik": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Migrationspakt": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Flüchtlingen": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Moria": {
+		"total": 24,
+		"AfD": 6,
+		"dieLinke": 2,
+		"Die_Gruenen": 2,
+		"gruene_jugend": 3,
+		"JA_Deutschland": 1,
+		"jungeliberale": 1,
+		"jusos": 4,
+		"lijusolid": 2,
+		"spdde": 3
+	},
+	"#Schweden": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Multikulti": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#BLM": {
+		"total": 3,
+		"AfD": 2,
+		"lijusolid": 1
+	},
+	"#Islamic": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#IRD": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#AfDTV": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#linke": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Deutschpflicht": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Schulen": {
+		"total": 8,
+		"AfD": 1,
+		"CDU": 3,
+		"dieLinke": 1,
+		"fdp": 1,
+		"jungeliberale": 1,
+		"spdde": 1
+	},
+	"#7TageDeutschland": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#CumEx": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Europa": {
+		"total": 33,
+		"AfD": 3,
+		"CDU": 26,
+		"dieLinke": 2,
+		"jungeliberale": 1,
+		"jusos": 1
+	},
+	"#NRW": {
+		"total": 20,
+		"AfD": 4,
+		"CDU": 13,
+		"fdp": 3
+	},
+	"#KommunalwahlenNRW": {
+		"total": 2,
+		"AfD": 1,
+		"spdde": 1
+	},
+	"#Demokratie": {
+		"total": 18,
+		"AfD": 6,
+		"CDU": 5,
+		"dieLinke": 2,
+		"fdp": 1,
+		"jungeliberale": 3,
+		"spdde": 1
+	},
+	"#Alternative": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Meinungsstreit": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Brandstiftung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Zypern": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Libanon": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Bundesrechnungshof": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Mieten": {
+		"total": 3,
+		"AfD": 1,
+		"dieLinke": 2
+	},
+	"#Körperverletzung": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Bedrohung": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Einbruchsdiebstahl": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Katastrophenschutz": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Busfahrer": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Gesetze": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bus": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Netflix": {
+		"total": 2,
+		"AfD": 1,
+		"jungeliberale": 1
+	},
+	"#Drogen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Drogentoten": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Chemnitz": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Blutspenden": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#DRK": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Grünen": {
+		"total": 8,
+		"AfD": 1,
+		"CDU": 2,
+		"dieLinke": 4,
+		"JA_Deutschland": 1
+	},
+	"#Neutralität": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Islam": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Grenzen": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Statistik": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Hysterie": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Wumms": {
+		"total": 5,
+		"AfD": 1,
+		"jusos": 1,
+		"spdde": 3
+	},
+	"#Untersuchungsausschuss": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Berlin2908": {
+		"total": 4,
+		"AfD": 4
+	},
+	"#b2908": {
+		"total": 6,
+		"AfD": 5,
+		"JA_Deutschland": 1
+	},
+	"#Lobbyregister": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Transparenz": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#berlin2908": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#WirSchaffenDas": {
+		"total": 2,
+		"AfD": 1,
+		"gruene_jugend": 1
+	},
+	"#Vergrünung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Linksverschiebung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Schäuble": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Pandemie": {
+		"total": 9,
+		"AfD": 2,
+		"CDU": 4,
+		"fdp": 2,
+		"lijusolid": 1
+	},
+	"#Lügenpresse": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Rezession": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Seehofer": {
+		"total": 18,
+		"AfD": 2,
+		"CDU": 3,
+		"dieLinke": 3,
+		"gruene_jugend": 2,
+		"jusos": 8
+	},
+	"#Kalbitz": {
+		"total": 4,
+		"AfD": 1,
+		"JA_Deutschland": 1,
+		"jusos": 1,
+		"lijusolid": 1
+	},
+	"#Balci": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#GretaThunberg": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#LuisaNeubauer": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Lanz": {
+		"total": 4,
+		"AfD": 1,
+		"CDU": 1,
+		"dieLinke": 1,
+		"jusos": 1
+	},
+	"#Gefährder": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Ankerzentrum": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Bayern": {
+		"total": 6,
+		"AfD": 5,
+		"dieLinke": 1
+	},
+	"#Zigeunersauce": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Sachsen": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#btw21": {
+		"total": 2,
+		"AfD": 1,
+		"Die_Gruenen": 1
+	},
+	"#CoronaApp": {
+		"total": 4,
+		"AfD": 3,
+		"jungeliberale": 1
+	},
+	"#Abschiebung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Terrorismus": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Geldwäsche": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Patientendaten": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Banken": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#InnereSicherheit": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Sicherheit": {
+		"total": 9,
+		"AfD": 1,
+		"CDU": 8
+	},
+	"#Cannabis": {
+		"total": 3,
+		"AfD": 1,
+		"dieLinke": 2
+	},
+	"#Mauerbau": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#effzeh": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#SED": {
+		"total": 4,
+		"AfD": 4
+	},
+	"#R2G": {
+		"total": 5,
+		"AfD": 1,
+		"CDU": 2,
+		"dieLinke": 1,
+		"Junge_Union": 1
+	},
+	"#Anschläge": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Umfall": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#EAuto": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#E2E": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Lampedusa": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#CoronaWarnApp": {
+		"total": 18,
+		"AfD": 1,
+		"CDU": 15,
+		"fdp": 1,
+		"spdde": 1
+	},
+	"#Kemmerich": {
+		"total": 10,
+		"AfD": 1,
+		"CDU": 3,
+		"dieLinke": 2,
+		"gruene_jugend": 2,
+		"jungeliberale": 1,
+		"jusos": 1
+	},
+	"#niemehrCDU": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Rigaer94": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Schreiber": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Linksextremisten": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#indymedia": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Filmförderung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Haldenwang": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Neuverschuldung": {
+		"total": 4,
+		"AfD": 2,
+		"jungeliberale": 2
+	},
+	"#Schwimmbäder": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bespitzelung": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#VS": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Extremismus": {
+		"total": 4,
+		"AfD": 1,
+		"JA_Deutschland": 1,
+		"jungeliberale": 1,
+		"lijusolid": 1
+	},
+	"#Bildung": {
+		"total": 7,
+		"AfD": 1,
+		"CDU": 2,
+		"fdp": 3,
+		"jungeliberale": 1
+	},
+	"#Schweiz": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Süßwaren": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Zivilcourage": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Mohrenköpfe": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#GRUNDFUNK": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#RLP": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Alkoholverbot": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Sperrstunde": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#ToenniesSkandal": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Borchardt": {
+		"total": 7,
+		"AfD": 5,
+		"dieLinke": 2
+	},
+	"#Stuttgart": {
+		"total": 10,
+		"AfD": 2,
+		"CDU": 1,
+		"dieLinke": 2,
+		"fdp": 1,
+		"gruene_jugend": 1,
+		"JA_Deutschland": 1,
+		"Junge_Union": 1,
+		"jusos": 1
+	},
+	"#Bismarck": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Marx": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Rassisten": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Antisemiten": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Reisebusdemo": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#17Juni1953": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Hetze": {
+		"total": 5,
+		"AfD": 3,
+		"CDU": 1,
+		"jusos": 1
+	},
+	"#taz": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Volksverhetzung": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Sozialismus": {
+		"total": 3,
+		"AfD": 1,
+		"dieLinke": 2
+	},
+	"#ÖPNV": {
+		"total": 6,
+		"AfD": 2,
+		"CDU": 1,
+		"dieLinke": 2,
+		"fdp": 1
+	},
+	"#Relotius": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Zeller": {
+		"total": 4,
+		"AfD": 4
+	},
+	"#Karlsruhe": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#EZB": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Abwahl": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Verfassungsrichterin": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Verfassungsgericht": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Versammlungsfreiheit": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Konjunkturpaket": {
+		"total": 14,
+		"AfD": 2,
+		"CDU": 3,
+		"dieLinke": 1,
+		"Die_Gruenen": 2,
+		"fdp": 3,
+		"jungeliberale": 1,
+		"jusos": 2
+	},
+	"#Kirchentag": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Konjunkturprogramm": {
+		"total": 2,
+		"AfD": 1,
+		"spdde": 1
+	},
+	"#Meinungsfreiheit": {
+		"total": 5,
+		"AfD": 4,
+		"fdp": 1
+	},
+	"#Eishockey": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Strompreis": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Energiewende": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Arbeitslose": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Trump": {
+		"total": 5,
+		"AfD": 1,
+		"dieLinke": 3,
+		"jusos": 1
+	},
+	"#Zeitgeist": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Steuergeld": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Polizistin": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#AmazonEcho": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#PEPP": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Verfassungsklage": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Atommüll": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Mecklenburg": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Staatsbürgerschaft": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Normalzustand": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Suizide": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Operationen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Grundgesetz": {
+		"total": 8,
+		"AfD": 3,
+		"CDU": 1,
+		"dieLinke": 1,
+		"fdp": 1,
+		"jungeliberale": 1,
+		"lijusolid": 1
+	},
+	"#Beschuss": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bonds": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Wirtschaftsplan": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Brutalität": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Linksextremer": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Habeck": {
+		"total": 6,
+		"AfD": 1,
+		"Die_Gruenen": 5
+	},
+	"#Fleisch": {
+		"total": 2,
+		"AfD": 1,
+		"Die_Gruenen": 1
+	},
+	"#Bußgeldkatalog": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Geldbußen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#CSU": {
+		"total": 5,
+		"AfD": 1,
+		"CDU": 1,
+		"dieLinke": 1,
+		"jusos": 2
+	},
+	"#Maut": {
+		"total": 2,
+		"AfD": 1,
+		"jusos": 1
+	},
+	"#Desaster": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Geburtstag": {
+		"total": 3,
+		"AfD": 2,
+		"dieLinke": 1
+	},
+	"#Migranten": {
+		"total": 7,
+		"AfD": 7
+	},
+	"#Alter": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Krise": {
+		"total": 7,
+		"AfD": 2,
+		"CDU": 2,
+		"dieLinke": 1,
+		"fdp": 1,
+		"jusos": 1
+	},
+	"#Steuereinnahmen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Rundfunkgebuehren": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Windkraft": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Greifvögel": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#ermorden": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Grundrechte": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Befragung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bürgerrechte": {
+		"total": 2,
+		"AfD": 1,
+		"fdp": 1
+	},
+	"#Mohamed": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Whistleblower": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Tegnell": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Rentner": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Facebook": {
+		"total": 3,
+		"AfD": 1,
+		"CDU": 2
+	},
+	"#Zensurkomitee": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Briefwahl": {
+		"total": 4,
+		"AfD": 1,
+		"CDU": 2,
+		"fdp": 1
+	},
+	"#Staatsanleihen": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Kritik": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Masken": {
+		"total": 4,
+		"AfD": 1,
+		"CDU": 1,
+		"dieLinke": 1,
+		"jungeliberale": 1
+	},
+	"#Zwangsimpfung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Immunitaetsausweis": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Shutdown": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#EndTheShutdown": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#COVID19": {
+		"total": 8,
+		"AfD": 1,
+		"CDU": 3,
+		"jungeliberale": 2,
+		"lijusolid": 1,
+		"spdde": 1
+	},
+	"#Cartoons": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#coronadeutschland": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Afrika": {
+		"total": 3,
+		"AfD": 2,
+		"CDU": 1
+	},
+	"#Spanien": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Remigration": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Clans": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Prämien": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Pflegekräfte": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Elsterwerda": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Armenian_Genocide": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#TagdesBieres": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Öffnungsdiskussionsorgien": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bleiberecht": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#CoronaVirusDE": {
+		"total": 4,
+		"AfD": 2,
+		"Junge_Union": 1,
+		"spdde": 1
+	},
+	"#BlackRock": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Berater": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Coronakrise": {
+		"total": 32,
+		"AfD": 4,
+		"CDU": 4,
+		"dieLinke": 7,
+		"Die_Gruenen": 2,
+		"fdp": 10,
+		"gruene_jugend": 3,
+		"Junge_Union": 1,
+		"spdde": 1
+	},
+	"#Verhaltensregeln": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Geschäfte": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Enteignung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Kirchen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bonn": {
+		"total": 3,
+		"AfD": 1,
+		"CDU": 2
+	},
+	"#Erdogan": {
+		"total": 3,
+		"AfD": 1,
+		"dieLinke": 1,
+		"jungeliberale": 1
+	},
+	"#Ostern": {
+		"total": 12,
+		"AfD": 3,
+		"CDU": 6,
+		"dieLinke": 1,
+		"JA_Deutschland": 1,
+		"jungeliberale": 1
+	},
+	"#Wahrheit": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Leben": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Tod": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Kirche": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#RKI": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Bundesfinanzminister": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Diätenerhöhung": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Brandner": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Reise": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Rücktritt": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Gutscheinen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Dublin": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Migrationspolitik": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#COVID2019de": {
+		"total": 3,
+		"AfD": 1,
+		"fdp": 2
+	},
+	"#Pessach": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#VEB": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Verstaatlichung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Meuthen": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Verschuldung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Desinfektionsmittel": {
+		"total": 3,
+		"AfD": 2,
+		"CDU": 1
+	},
+	"#Zoll": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Verfassung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Protschka": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Videokonferenz": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Landtag": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Flughafen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Infizierte": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Düngeverordnung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Storch": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Snowden": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#NSA": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#DIESEL": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Weidel": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Familienunternehmer": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#GRÜNE": {
+		"total": 2,
+		"AfD": 1,
+		"dieLinke": 1
+	},
+	"#Machete": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Eurobonds": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Hospital": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Zeitpläne": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bundesvorstand": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Landesvorstand": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Saarland": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Erntehelfer": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Auszahlung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Hilfsgelder": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bewährungstrafe": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Menschenleben": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Syrer": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Hempel": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bundesfreiwilligendienst": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Erschießungen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Zwangsarbeit": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Reiche": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Bartsch": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Reuken": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Schüler": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Nordmazedonien": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Albanien": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bundestagsfraktion": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Hemmstoff": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Atemschutzmaske": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Antisemitismus": {
+		"total": 3,
+		"AfD": 1,
+		"CDU": 2
+	},
+	"#Israel": {
+		"total": 3,
+		"AfD": 1,
+		"CDU": 1,
+		"Junge_Union": 1
+	},
+	"#Großkraftwerke": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Asylheim": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Suhl": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Quarantäne": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Panik": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Börsen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Steuersenkungen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#KommunalwahlBayern": {
+		"total": 2,
+		"AfD": 1,
+		"Die_Gruenen": 1
+	},
+	"#Windräder": {
+		"total": 3,
+		"AfD": 3
+	},
+	"#Polen": {
+		"total": 5,
+		"AfD": 2,
+		"gruene_jugend": 1,
+		"jungeliberale": 1,
+		"spdde": 1
+	},
+	"#Haftbefehl": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Krankschreibung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Arztbesuch": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Tschechien": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Umsturzpläne": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Parlamente": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Jihad": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#terror": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#LINKE": {
+		"total": 7,
+		"AfD": 1,
+		"dieLinke": 6
+	},
+	"#Parlamentarismus": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Erschießungsphantasien": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Arbeitslager": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#EGMR": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#FDP": {
+		"total": 15,
+		"AfD": 4,
+		"dieLinke": 5,
+		"jusos": 6
+	},
+	"#Ministerpräsident": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Erfurt": {
+		"total": 4,
+		"AfD": 1,
+		"gruene_jugend": 1,
+		"jusos": 2
+	},
+	"#Miete": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Ideologie": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Aschermittwoch": {
+		"total": 13,
+		"AfD": 1,
+		"CDU": 7,
+		"dieLinke": 5
+	},
+	"#Osterhofen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Vielfalt": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Verkehrstote": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Tempolimit": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Großfamilien": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#HARTZIV": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Hanau": {
+		"total": 39,
+		"AfD": 3,
+		"CDU": 22,
+		"dieLinke": 5,
+		"Die_Gruenen": 3,
+		"gruene_jugend": 3,
+		"jungeliberale": 1,
+		"jusos": 1,
+		"linkesds": 1
+	},
+	"#Beamter": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Partei": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bürgerschaft": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Rundfunkgebühr": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Sozialdemokraten": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Fraktion": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#gefährlich": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Wohnsiedlungen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Journalismus": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Schleuser": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Ministerium": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Maas": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bürgeramtsmitarbeiterin": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Ungarn": {
+		"total": 2,
+		"AfD": 1,
+		"gruene_jugend": 1
+	},
+	"#Asylpolitik": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Regierung": {
+		"total": 4,
+		"AfD": 4
+	},
+	"#Verfassungsbruch": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Abgrenzung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Verfassungsschutzbericht": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Innenministerium": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Umfrage": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#regieren": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Amtsmissbrauch": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Nötigung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Anzeige": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bestechung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Almosen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#AKK": {
+		"total": 3,
+		"AfD": 2,
+		"CDU": 1
+	},
+	"#Hartz4": {
+		"total": 5,
+		"AfD": 1,
+		"dieLinke": 3,
+		"gruene_jugend": 1
+	},
+	"#Gauland": {
+		"total": 4,
+		"AfD": 3,
+		"dieLinke": 1
+	},
+	"#Hass": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Chrupalla": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Neuwahlen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Umweltsau": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#WDR": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Oberursel": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Strompreiserhöhung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Tarnanzüge": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Moderator": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Lebensmittel": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#teurer": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Wahlerfolge": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#AWO": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Selbstbedienung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Arbeiterwohlfahrt": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Abzocke": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Terroranschlag": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#London": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Täter": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Dschihadist": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Senat": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Justiz": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Konstanz": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Gewaltenteilung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Genosse": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bosse": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Gabriel": {
+		"total": 2,
+		"AfD": 1,
+		"jusos": 1
+	},
+	"#Aufsichtsrat": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Deutschen": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Bank": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Win7": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Digitalisierung": {
+		"total": 11,
+		"AfD": 3,
+		"CDU": 4,
+		"fdp": 2,
+		"jungeliberale": 1,
+		"Junge_Union": 1
+	},
+	"#Beruf": {
+		"total": 2,
+		"AfD": 2
+	},
+	"#Dorfkinder": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Hashtag": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Ministerin": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Job": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#arbeiten": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Linken": {
+		"total": 3,
+		"AfD": 1,
+		"CDU": 2
+	},
+	"#Schlepperschiff": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Asylbewerberheim": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Salafisten": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Geld": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Umwelt": {
+		"total": 4,
+		"AfD": 1,
+		"CDU": 3
+	},
+	"#Irrsinn": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Gewinner": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Razzien": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Opposition": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Eskenfilme": {
+		"total": 2,
+		"AfD": 1,
+		"jungeliberale": 1
+	},
+	"#Feuerwehr": {
+		"total": 3,
+		"AfD": 1,
+		"CDU": 2
+	},
+	"#Sprengsatz": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Beleidigung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Vergeltung": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Fahrscheinkontrolle": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Sieg": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Gericht": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Flüchtlingspolitik": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Angriffe": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Tierschützer": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Jäger": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Jagdhund": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Mülheim": {
+		"total": 2,
+		"AfD": 1,
+		"CDU": 1
+	},
+	"#Silvesternacht": {
+		"total": 1,
+		"AfD": 1
+	},
+	"#Lesetipp": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#Familien": {
+		"total": 11,
+		"CDU": 10,
+		"spdde": 1
+	},
+	"#AstraZeneca": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Impfstoffe": {
+		"total": 2,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Elterngeld": {
+		"total": 2,
+		"CDU": 1,
+		"spdde": 1
+	},
+	"#Partnerschaftsbonus": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Aufschwung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#MarkusLanz": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#baldauf21": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Mut": {
+		"total": 3,
+		"CDU": 2,
+		"fdp": 1
+	},
+	"#Danke": {
+		"total": 5,
+		"CDU": 3,
+		"dieLinke": 1,
+		"jungeliberale": 1
+	},
+	"#Baukindergeld": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#WeRemember": {
+		"total": 5,
+		"CDU": 3,
+		"dieLinke": 1,
+		"fdp": 1
+	},
+	"#Datenstrategie": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Weltwirtschaftsforum": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Davos": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#wegenmorgen": {
+		"total": 50,
+		"CDU": 42,
+		"dieLinke": 1,
+		"fdp": 1,
+		"gruene_jugend": 1,
+		"jungeliberale": 1,
+		"Junge_Union": 3,
+		"jusos": 1
+	},
+	"#CAS2021": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Modernisierungsjahrzehnt": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#teamCDU": {
+		"total": 5,
+		"CDU": 4,
+		"Junge_Union": 1
+	},
+	"#Eisenmann": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#wirmachendas": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Servicetweet": {
+		"total": 15,
+		"CDU": 9,
+		"dieLinke": 2,
+		"fdp": 4
+	},
+	"#teamKAH": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Bundespressekonferenz": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#MPK": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#Star": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#HerrAdams": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#TeamWork": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#TeamKAH": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Volkspartei": {
+		"total": 6,
+		"CDU": 6
+	},
+	"#Mitte": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Fehlerteufel": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Stichwahl": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Mitgliederbeauftragten": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#75JahreCDU": {
+		"total": 12,
+		"CDU": 11,
+		"dieLinke": 1
+	},
+	"#Infotweet": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#cdup21": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#FinalCountdown": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#proTip": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Impfung": {
+		"total": 2,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Biontech": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Moderna": {
+		"total": 3,
+		"CDU": 2,
+		"spdde": 1
+	},
+	"#cduvorsitz": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#CDUTV": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#WashingtonDC": {
+		"total": 2,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Kraftpaket": {
+		"total": 39,
+		"CDU": 39
+	},
+	"#Unboxing": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Adenauer": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#Neujahrsansprache": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Grundrente": {
+		"total": 6,
+		"CDU": 3,
+		"dieLinke": 2,
+		"Junge_Union": 1
+	},
+	"#Soli": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#FüreinanderGegenCorona": {
+		"total": 4,
+		"CDU": 4
+	},
+	"#FüreinanderHoffnungSein": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Advent": {
+		"total": 4,
+		"CDU": 4
+	},
+	"#AHA": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#EMA": {
+		"total": 2,
+		"CDU": 1,
+		"jusos": 1
+	},
+	"#CDULive": {
+		"total": 16,
+		"CDU": 16
+	},
+	"#Kandidatenverfahren": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#Impfen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#STIKO": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Chanukka": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#SaveTheDate": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Verantwortung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Parteitag": {
+		"total": 8,
+		"CDU": 2,
+		"dieLinke": 3,
+		"fdp": 3
+	},
+	"#Kandidatenrunde": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#solidarischstattquer": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#füreinandergegencorona": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#AndiesemTag": {
+		"total": 4,
+		"CDU": 4
+	},
+	"#BehindTheScenes": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Drohnen": {
+		"total": 2,
+		"CDU": 1,
+		"jusos": 1
+	},
+	"#Bundeshaushalt": {
+		"total": 5,
+		"CDU": 3,
+		"spdde": 2
+	},
+	"#Warschau": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Gesellschaft": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#TalkamDienstag": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#WeltAIDSTag": {
+		"total": 2,
+		"CDU": 1,
+		"jungeliberale": 1
+	},
+	"#timeline": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#DLT20": {
+		"total": 8,
+		"CDU": 1,
+		"Junge_Union": 7
+	},
+	"#Verlustrechnung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Lebkuchen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Novemberhilfe": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Supportyourlocal": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#BlackFriday": {
+		"total": 3,
+		"CDU": 1,
+		"dieLinke": 2
+	},
+	"#COVID": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wohlstand": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Regierungserklärung": {
+		"total": 6,
+		"CDU": 6
+	},
+	"#HomeOffice": {
+		"total": 7,
+		"CDU": 1,
+		"jungeliberale": 1,
+		"spdde": 5
+	},
+	"#Zukunft": {
+		"total": 16,
+		"CDU": 16
+	},
+	"#Transformation": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Bürokratieabbau": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Steuerreform": {
+		"total": 2,
+		"CDU": 1,
+		"fdp": 1
+	},
+	"#BerlinForum": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Frauenquote": {
+		"total": 5,
+		"CDU": 1,
+		"jungeliberale": 1,
+		"jusos": 1,
+		"spdde": 2
+	},
+	"#unserwald": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#Totensonntag": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Vorlesetag": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Betriebsräte": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Jobs": {
+		"total": 2,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Querdenken": {
+		"total": 3,
+		"CDU": 2,
+		"dieLinke": 1
+	},
+	"#Bevoelkerungsschutzgesetz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Faktencheck": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Infektionsschutzgesetz": {
+		"total": 2,
+		"CDU": 1,
+		"spdde": 1
+	},
+	"#Pressekonferenz": {
+		"total": 41,
+		"CDU": 3,
+		"dieLinke": 37,
+		"Die_Gruenen": 1
+	},
+	"#besonderehelden": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Weltdiabetestag": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Diabetes": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Unser": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#ff": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#65JahreBw": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wald": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Martinstag": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#InstaLive": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#unserWald": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#unsereHeimat": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#NieWieder": {
+		"total": 3,
+		"CDU": 1,
+		"spdde": 2
+	},
+	"#Digitalkonferenz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wälder": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Klima": {
+		"total": 4,
+		"CDU": 2,
+		"dieLinke": 1,
+		"jungeliberale": 1
+	},
+	"#SachsenUpdate": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Nizza": {
+		"total": 2,
+		"CDU": 1,
+		"JA_Deutschland": 1
+	},
+	"#Dresden": {
+		"total": 4,
+		"CDU": 2,
+		"dieLinke": 1,
+		"jusos": 1
+	},
+	"#grüne": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#BaumdesJahres": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Stechpalme": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#USElection2020": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#BPK": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Amthor": {
+		"total": 5,
+		"CDU": 2,
+		"dieLinke": 1,
+		"lijusolid": 2
+	},
+	"#Extremist": {
+		"total": 2,
+		"CDU": 1,
+		"jungeliberale": 1
+	},
+	"#Bundespolizei": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Coronavirus": {
+		"total": 22,
+		"CDU": 10,
+		"dieLinke": 1,
+		"fdp": 7,
+		"jungeliberale": 3,
+		"Junge_Union": 1
+	},
+	"#cdupt20": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#Polizisten": {
+		"total": 2,
+		"CDU": 1,
+		"linkesds": 1
+	},
+	"#Feuerwehrleute": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Einsatzkräfte": {
+		"total": 7,
+		"CDU": 7
+	},
+	"#AnEurerSeite": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#Respekt": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#Oppermann": {
+		"total": 6,
+		"CDU": 1,
+		"Junge_Union": 1,
+		"spdde": 4
+	},
+	"#Einbruch": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#sonämlich": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Rettungsdienst": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wocheneinkauf": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#THW": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Einsatz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Extremisten": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Strafverfolgung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Chance": {
+		"total": 2,
+		"CDU": 1,
+		"fdp": 1
+	},
+	"#Rettungskräfte": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Staates": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Ausstattung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wohlstandfüralle": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Goslar": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Verschwörungsmythen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Welternährungstag": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#FakeNews": {
+		"total": 7,
+		"CDU": 7
+	},
+	"#Verschwörungen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Verschwoerungsmythen": {
+		"total": 4,
+		"CDU": 3,
+		"gruene_jugend": 1
+	},
+	"#verschwoerungstheorien": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Desinformation": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#nichtegal": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#WelttagdesHändewaschens": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#GrippeImpfung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Moldova": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Synagoge": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Halle": {
+		"total": 8,
+		"CDU": 1,
+		"dieLinke": 1,
+		"Die_Gruenen": 1,
+		"gruene_jugend": 1,
+		"jungeliberale": 1,
+		"linkesds": 1,
+		"spdde": 2
+	},
+	"#AHAAL": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#CAHLA": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Gesundheit": {
+		"total": 4,
+		"CDU": 1,
+		"dieLinke": 2,
+		"fdp": 1
+	},
+	"#Pflege": {
+		"total": 12,
+		"CDU": 3,
+		"dieLinke": 7,
+		"Die_Gruenen": 1,
+		"jungeliberale": 1
+	},
+	"#Integrationspreis": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Integration": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Weltlehrertag": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#30JahreEinheit": {
+		"total": 6,
+		"CDU": 5,
+		"Die_Gruenen": 1
+	},
+	"#WorldSmileDay": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kohl": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#digitalerStaat": {
+		"total": 4,
+		"CDU": 4
+	},
+	"#Sotoudeh": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Pusch": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#bettertogether": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#flattenthecurve": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#Frühstart": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Unrechtsstaat": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#DigitalerStaat": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#KI": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Oberhausen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Schranz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Münster": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Oberbürgermeister": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Oberbürgermeisterin": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Düsseldorf": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wechsel": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#DieKommunalpartei": {
+		"total": 11,
+		"CDU": 11
+	},
+	"#Anpacken": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Dortmund": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Klimaschutz": {
+		"total": 11,
+		"CDU": 1,
+		"dieLinke": 1,
+		"Die_Gruenen": 3,
+		"fdp": 2,
+		"jungeliberale": 2,
+		"spdde": 2
+	},
+	"#Stichwahl2020": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Schulgipfel": {
+		"total": 4,
+		"CDU": 2,
+		"spdde": 2
+	},
+	"#Weltkindertag": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Familie": {
+		"total": 5,
+		"CDU": 4,
+		"jungeliberale": 1
+	},
+	"#Freundschaft": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Zusammenarbeit": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Belarus": {
+		"total": 8,
+		"CDU": 3,
+		"Die_Gruenen": 1,
+		"Junge_Union": 2,
+		"jusos": 2
+	},
+	"#PolizeiNRW": {
+		"total": 2,
+		"CDU": 1,
+		"lijusolid": 1
+	},
+	"#Stichwahlen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kufen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Generalsekretär": {
+		"total": 2,
+		"CDU": 1,
+		"fdp": 1
+	},
+	"#cellbroadcast": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kommunalwahl2020": {
+		"total": 4,
+		"CDU": 4
+	},
+	"#Warntag2020": {
+		"total": 2,
+		"CDU": 1,
+		"spdde": 1
+	},
+	"#KAS": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Allensbach": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Dienstpflicht": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Nawalny": {
+		"total": 2,
+		"CDU": 1,
+		"jungeliberale": 1
+	},
+	"#kommunalwahl2020": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Strukturwandel": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kohlegebieten": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#gamescom2020": {
+		"total": 2,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Bund": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Länder": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Verteidigungsminister": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kurzarbeitergeld": {
+		"total": 10,
+		"CDU": 3,
+		"dieLinke": 2,
+		"spdde": 5
+	},
+	"#Koalitionsausschuss": {
+		"total": 10,
+		"CDU": 6,
+		"jungeliberale": 1,
+		"jusos": 2,
+		"spdde": 1
+	},
+	"#70JahreEinsatz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Tsikhanouskaya": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#CoronaKinderbonus": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kinderbonus": {
+		"total": 4,
+		"CDU": 1,
+		"spdde": 3
+	},
+	"#Bildungschancen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#BerlinerMauer": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Elternzeit": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Mutterschutz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Familienauszeit": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Weißrussland": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Lukaschenko": {
+		"total": 2,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Frau": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Arbeitsmarkt": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Ifo": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kanzler": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#HelmutKohl": {
+		"total": 10,
+		"CDU": 10
+	},
+	"#Covid19": {
+		"total": 7,
+		"CDU": 3,
+		"Die_Gruenen": 2,
+		"fdp": 2
+	},
+	"#EUGipfel": {
+		"total": 4,
+		"CDU": 1,
+		"dieLinke": 1,
+		"Die_Gruenen": 1,
+		"jusos": 1
+	},
+	"#20Juli": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#SchabbatSchabbat": {
+		"total": 6,
+		"CDU": 6
+	},
+	"#Kickoff2030": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Visegrád": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#kickoff2030": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#Judentum": {
+		"total": 7,
+		"CDU": 7
+	},
+	"#Religion": {
+		"total": 7,
+		"CDU": 7
+	},
+	"#Srebrenica": {
+		"total": 2,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Mittelstand": {
+		"total": 2,
+		"CDU": 1,
+		"fdp": 1
+	},
+	"#Unternehmen": {
+		"total": 4,
+		"CDU": 3,
+		"fdp": 1
+	},
+	"#live": {
+		"total": 6,
+		"CDU": 3,
+		"fdp": 3
+	},
+	"#Verteidigungspolitik": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Menschenrechte": {
+		"total": 3,
+		"CDU": 2,
+		"jungeliberale": 1
+	},
+	"#sexy": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Alltagsmasken": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Sommerinterview": {
+		"total": 11,
+		"CDU": 2,
+		"dieLinke": 3,
+		"Die_Gruenen": 2,
+		"fdp": 4
+	},
+	"#Landwirtschaft": {
+		"total": 7,
+		"CDU": 5,
+		"Die_Gruenen": 2
+	},
+	"#digitaleBildung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Digitalministerium": {
+		"total": 3,
+		"CDU": 1,
+		"Junge_Union": 2
+	},
+	"#Deutschland2030": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#Kohleausstieg": {
+		"total": 7,
+		"CDU": 2,
+		"gruene_jugend": 4,
+		"jusos": 1
+	},
+	"#Fleischindustrie": {
+		"total": 5,
+		"CDU": 1,
+		"dieLinke": 2,
+		"spdde": 2
+	},
+	"#EU2020DE": {
+		"total": 2,
+		"CDU": 1,
+		"Die_Gruenen": 1
+	},
+	"#madeingermany": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Steuerhilfegesetz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Ratspräsidentschaft": {
+		"total": 8,
+		"CDU": 5,
+		"jungeliberale": 2,
+		"spdde": 1
+	},
+	"#KreisGütersloh": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#App": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#frühstart": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Ausbildungsprämie": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Plastikartikel": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Familienleistungsgesetz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Niedersachen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#RheinlandPfalz": {
+		"total": 2,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Wehrbeauftragten": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Schengen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Instalive": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Gleichheit": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#5G": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#allegegencorona": {
+		"total": 7,
+		"CDU": 7
+	},
+	"#AHAFormel": {
+		"total": 2,
+		"CDU": 1,
+		"spdde": 1
+	},
+	"#digitalstattviral": {
+		"total": 15,
+		"CDU": 15
+	},
+	"#Reul": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Justizministerin": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#30JahreMauerfall": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#OTD": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#TagderBundeswehr": {
+		"total": 3,
+		"CDU": 2,
+		"jungeliberale": 1
+	},
+	"#throwback": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#digicampcdu": {
+		"total": 12,
+		"CDU": 12
+	},
+	"#Kindesmissbrauch": {
+		"total": 13,
+		"CDU": 13
+	},
+	"#AnneFrank": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Diskriminierung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#NullToleranz": {
+		"total": 7,
+		"CDU": 7
+	},
+	"#Nulltoleranz": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Wasserstoffstrategie": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Esken": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Strobl": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Maskenpflicht": {
+		"total": 4,
+		"CDU": 3,
+		"jungeliberale": 1
+	},
+	"#Jena": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Parteiarbeit": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#Weltmeere": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Rassismus": {
+		"total": 11,
+		"CDU": 2,
+		"dieLinke": 3,
+		"Die_Gruenen": 3,
+		"jusos": 3
+	},
+	"#Gesundheitssystem": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Arbeitsplätze": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kommunen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Trendsetter": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#digicampCDU": {
+		"total": 49,
+		"CDU": 49
+	},
+	"#Team": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Forschung": {
+		"total": 6,
+		"CDU": 5,
+		"fdp": 1
+	},
+	"#Katapult": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#kraftpaket": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Rechtsextremismus": {
+		"total": 7,
+		"CDU": 3,
+		"dieLinke": 1,
+		"Die_Gruenen": 1,
+		"gruene_jugend": 1,
+		"spdde": 1
+	},
+	"#Neustaat": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#walter": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#luebcke": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Pfingsten": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#ATALANTA": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kriminalität": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Mindestlohn": {
+		"total": 9,
+		"CDU": 3,
+		"dieLinke": 2,
+		"jusos": 3,
+		"spdde": 1
+	},
+	"#Wiederaufbaufonds": {
+		"total": 2,
+		"CDU": 1,
+		"fdp": 1
+	},
+	"#Finanzen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Entwicklung": {
+		"total": 2,
+		"CDU": 1,
+		"fdp": 1
+	},
+	"#thüringen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Lohnfortzahlung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Startups": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Hygienedemos": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Feiertag": {
+		"total": 2,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Fleischwirtschaft": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Lohnfortzahlungen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Weltbienentag": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Presse": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kreisvorsitzendenkonferenz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#UNIFIL": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#Minusma": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Mali": {
+		"total": 3,
+		"CDU": 2,
+		"jungeliberale": 1
+	},
+	"#Gleichberechtigung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Lockerungen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Maßnahmen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Regierungsbefragung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wissenschaft": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#NATO": {
+		"total": 7,
+		"CDU": 4,
+		"dieLinke": 2,
+		"jungeliberale": 1
+	},
+	"#DANKE": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Schengennormalität": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Schuman": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Service": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#KonradAdenauer": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Berufsbildungsbericht": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#ThrowbackThursday": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Bildungsgerechtigkeit": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Steuerrecht": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#digitaleSchule": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#CDUlive": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Instagram": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#WelttagderHandhygiene": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Florianstag": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Antikörpertests": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#WorldPressFreedomDay": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Schulbildung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#TagderArbeit": {
+		"total": 4,
+		"CDU": 1,
+		"dieLinke": 1,
+		"fdp": 1,
+		"lijusolid": 1
+	},
+	"#Gottesdienste": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Spielplätze": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Bundesliga": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#NINA": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#corona": {
+		"total": 6,
+		"CDU": 5,
+		"dieLinke": 1
+	},
+	"#service": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Alltagsmaske": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Dachau": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Umweltschutz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wirtschaftsförderung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#KAH": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Restaurants": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Hotels": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#StVO": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Staatshilfen": {
+		"total": 2,
+		"CDU": 1,
+		"jusos": 1
+	},
+	"#Schutzmasken": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#krisentutor": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Reproduktionsfaktor": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Coronahilfen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Schicksalsgemeinschaft": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Koalitionsausschusses": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Einkaufshelden": {
+		"total": 4,
+		"CDU": 2,
+		"Junge_Union": 2
+	},
+	"#Maskenbörse": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Heute": {
+		"total": 7,
+		"CDU": 1,
+		"fdp": 6
+	},
+	"#Osterandacht": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Gebet": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#DigitaleOsterandacht": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Weizsäcker": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wissenschaftler": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Studierende": {
+		"total": 3,
+		"CDU": 1,
+		"jungeliberale": 1,
+		"jusos": 1
+	},
+	"#Hoffnung": {
+		"total": 7,
+		"CDU": 7
+	},
+	"#MichelFriedman": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Karfreitag": {
+		"total": 2,
+		"CDU": 1,
+		"jungeliberale": 1
+	},
+	"#Judenhass": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Initiativen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#wirbleibenzuhause": {
+		"total": 8,
+		"CDU": 8
+	},
+	"#informiertstattinfiziert": {
+		"total": 10,
+		"CDU": 10
+	},
+	"#Gesundheitswesen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#digitaleParteiarbeit": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Intensivbetten": {
+		"total": 2,
+		"CDU": 1,
+		"dieLinke": 1
+	},
+	"#Hamsterkäufe": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#CORONA": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#UrbietOrbi": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#sevicetweet": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Deutschlandjahr": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Homeoffice": {
+		"total": 9,
+		"CDU": 1,
+		"jusos": 1,
+		"spdde": 7
+	},
+	"#Landwirte": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#coronacalling": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Hilfspaket": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#coronakrise": {
+		"total": 2,
+		"CDU": 1,
+		"fdp": 1
+	},
+	"#Krankenhäuser": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Schutzschild": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#WirBleibenZuhause": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#followfriday": {
+		"total": 29,
+		"CDU": 1,
+		"jungeliberale": 28
+	},
+	"#Hotlines": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Notify": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Fakenews": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Germany": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wochenstart": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Stabilität": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Lutz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Solidarität": {
+		"total": 2,
+		"CDU": 1,
+		"jusos": 1
+	},
+	"#FlattenTheCurve": {
+		"total": 5,
+		"CDU": 1,
+		"dieLinke": 2,
+		"fdp": 2
+	},
+	"#Werkstatt": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#werkstattgespräch": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Werkstattgespräch": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Innovation": {
+		"total": 4,
+		"CDU": 3,
+		"fdp": 1
+	},
+	"#Schulschließungen": {
+		"total": 2,
+		"CDU": 1,
+		"fdp": 1
+	},
+	"#Kommunalpolitiker": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Infrastruktur": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Investitionsoffensive": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Digitalpolitik": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#illner": {
+		"total": 6,
+		"CDU": 4,
+		"dieLinke": 2
+	},
+	"#LIVE": {
+		"total": 3,
+		"CDU": 1,
+		"fdp": 2
+	},
+	"#Zagreb": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Riexinger": {
+		"total": 2,
+		"CDU": 1,
+		"lijusolid": 1
+	},
+	"#Geißler": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Impfpflicht": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Masern": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Gemkow": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Gemkow2020": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#obmle2020": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Demmin": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Fellbach20": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#BahnBW": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Moin": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#BerlinerRunde": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#HHBue2020": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#Mobilität": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#Stadtentwicklung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#gegenhalten": {
+		"total": 2,
+		"CDU": 1,
+		"spdde": 1
+	},
+	"#Hasskriminalität": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Familienpolitik": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Tatort": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Berlinale2020": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#ZusammenwachsendeStadt": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Investition": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#InstaPolitik": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Thueringen": {
+		"total": 9,
+		"CDU": 7,
+		"jusos": 2
+	},
+	"#digicamp2": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#WeLike": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Storymachine": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Voterjourney": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Networking": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Netz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wähler": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Wahlkämpfer": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#nachhilfe": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Livehack": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#StoryMachine": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#AufstiegsBAföG": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#HappyValentinesDay2020": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Mitgliederbefragung": {
+		"total": 2,
+		"CDU": 1,
+		"Junge_Union": 1
+	},
+	"#fblive": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Höcke": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Illner": {
+		"total": 3,
+		"CDU": 2,
+		"spdde": 1
+	},
+	"#AnneWill": {
+		"total": 11,
+		"CDU": 1,
+		"dieLinke": 2,
+		"jungeliberale": 1,
+		"spdde": 7
+	},
+	"#thueringen": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#ThueringenWahl": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Ministerpraesidentenwahl": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#cdu": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#medientipp": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Einsatzbereitschaft": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#WorldCancerDay": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Krebs": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#otd": {
+		"total": 3,
+		"CDU": 3
+	},
+	"#Betriebsrätegesetz": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#CDA": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Laumann": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Bundeswehrtagung": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#Verteidigung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#DefenderEurope": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Zusammenhalt": {
+		"total": 2,
+		"CDU": 1,
+		"Junge_Union": 1
+	},
+	"#Goodbye": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Brexit": {
+		"total": 6,
+		"CDU": 2,
+		"Die_Gruenen": 1,
+		"jungeliberale": 1,
+		"jusos": 1,
+		"spdde": 1
+	},
+	"#Frauenförderung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#GreatBritain": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Gewalt": {
+		"total": 2,
+		"CDU": 1,
+		"jusos": 1
+	},
+	"#Sicherheitsrat": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Jordanien": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#HaltungsZeigen": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Kreisgeschäftsführer": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Glückwünsch": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Nackensteak": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#HaltungZeigen": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Shoa": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#NJE": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Coesfeld": {
+		"total": 2,
+		"CDU": 2
+	},
+	"#Gauck": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Recap": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Davos2020": {
+		"total": 3,
+		"CDU": 2,
+		"gruene_jugend": 1
+	},
+	"#Davos20": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#IGW2020": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Haltung": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#MoinCDU": {
+		"total": 4,
+		"CDU": 4
+	},
+	"#servicetweet": {
+		"total": 5,
+		"CDU": 1,
+		"Die_Gruenen": 1,
+		"fdp": 2,
+		"Junge_Union": 1
+	},
+	"#InvictusGames": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#Organspende": {
+		"total": 5,
+		"CDU": 5
+	},
+	"#EAK": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#GrundsätzlichCDU": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#HeiligenDreiKönige": {
+		"total": 1,
+		"CDU": 1
+	},
+	"#ScheuerRuecktritt": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#SachsenAnhalt": {
+		"total": 3,
+		"dieLinke": 2,
+		"jusos": 1
+	},
+	"#KeinPushbackIstLegal": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#LeaveNoOneBehind": {
+		"total": 4,
+		"dieLinke": 1,
+		"gruene_jugend": 3
+	},
+	"#Landtagswahl": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#SocialMedia": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Twitter": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#HM": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Kapitalismus": {
+		"total": 5,
+		"dieLinke": 4,
+		"jungeliberale": 1
+	},
+	"#Schuldenbremse": {
+		"total": 4,
+		"dieLinke": 4
+	},
+	"#LINKEBPT": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#cdubpt21": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Jahresauftakt": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#dielinke": {
+		"total": 29,
+		"dieLinke": 29
+	},
+	"#linkebpt": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#CoronaZuschlag": {
+		"total": 2,
+		"dieLinke": 1,
+		"spdde": 1
+	},
+	"#PandemieZuschlag": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#HartzIV": {
+		"total": 6,
+		"dieLinke": 5,
+		"jungeliberale": 1
+	},
+	"#Atomwaffenverbot": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Atomwaffen": {
+		"total": 5,
+		"dieLinke": 5
+	},
+	"#wegmit219a": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#mybodymychoice": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Kinderarbeit": {
+		"total": 2,
+		"dieLinke": 1,
+		"gruene_jugend": 1
+	},
+	"#Lieferketten": {
+		"total": 2,
+		"dieLinke": 1,
+		"spdde": 1
+	},
+	"#Abrüstung": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#UNO": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#FFP2Masken": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#CoronaKrise": {
+		"total": 11,
+		"dieLinke": 10,
+		"fdp": 1
+	},
+	"#CoronaPandemie": {
+		"total": 6,
+		"dieLinke": 3,
+		"fdp": 1,
+		"gruene_jugend": 2
+	},
+	"#Pressestatement": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#linkelpt": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Luxemburg": {
+		"total": 2,
+		"dieLinke": 1,
+		"gruene_jugend": 1
+	},
+	"#Liebknecht": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#LINKSwirkt": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Patente": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Haribo": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#WilkauHaßlau": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#MachtdasLandsozial": {
+		"total": 7,
+		"dieLinke": 7
+	},
+	"#Capitol": {
+		"total": 2,
+		"dieLinke": 1,
+		"jungeliberale": 1
+	},
+	"#Merz": {
+		"total": 4,
+		"dieLinke": 3,
+		"JA_Deutschland": 1
+	},
+	"#CoronaImpfung": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#coronaimpfstoff": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#pharmaindustry": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Infektionszahlen": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Ungleichheit": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Einzelhandel": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#SolidarischerLockdown": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Senftenberg": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#solidarischerLockdown": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#LINKSBEWEGT": {
+		"total": 8,
+		"dieLinke": 8
+	},
+	"#Sookee": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Evakuierung": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#WaermeFuerAlle": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Rente": {
+		"total": 3,
+		"dieLinke": 3
+	},
+	"#DannenroederForst": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#SachenAnhalt": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Lufthansa": {
+		"total": 8,
+		"dieLinke": 6,
+		"fdp": 1,
+		"jusos": 1
+	},
+	"#Kniefall": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#VermögensabgabeJETZT": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Vermögensabgabe": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#noAfD": {
+		"total": 9,
+		"dieLinke": 7,
+		"jusos": 2
+	},
+	"#Dannibleibt": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#KaffeemitKatja": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Umweltpolitik": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Danni": {
+		"total": 4,
+		"dieLinke": 1,
+		"Die_Gruenen": 1,
+		"gruene_jugend": 1,
+		"lijusolid": 1
+	},
+	"#Engels": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#nonazis": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Bezos": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Amazon": {
+		"total": 4,
+		"dieLinke": 4
+	},
+	"#CoronaGipfel": {
+		"total": 4,
+		"dieLinke": 1,
+		"jusos": 1,
+		"spdde": 2
+	},
+	"#Femizide": {
+		"total": 4,
+		"dieLinke": 4
+	},
+	"#Quotenfrau": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#keinemehr": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#TaggegenGewaltanFrauen": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Jobcenter": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Daimler": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Kitagipfel": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Autogipfel": {
+		"total": 3,
+		"dieLinke": 1,
+		"jungeliberale": 1,
+		"spdde": 1
+	},
+	"#Mietendeckel": {
+		"total": 17,
+		"dieLinke": 16,
+		"jungeliberale": 1
+	},
+	"#Armut": {
+		"total": 5,
+		"dieLinke": 4,
+		"jungeliberale": 1
+	},
+	"#Islamismus": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#nichtegalwerregiert": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#mietebezahlbar": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#caffier": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Pflegenotstand": {
+		"total": 4,
+		"dieLinke": 4
+	},
+	"#Jahresgutachten": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Wirtschaftsweisen": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Wirtschaftspolitik": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Weihnachtsgeld": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#9November": {
+		"total": 2,
+		"dieLinke": 1,
+		"gruene_jugend": 1
+	},
+	"#USWahl2020": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Biden": {
+		"total": 2,
+		"dieLinke": 1,
+		"jusos": 1
+	},
+	"#USA": {
+		"total": 5,
+		"dieLinke": 2,
+		"jungeliberale": 1,
+		"jusos": 1,
+		"spdde": 1
+	},
+	"#Election2020": {
+		"total": 2,
+		"dieLinke": 1,
+		"Die_Gruenen": 1
+	},
+	"#SolidaritätMitBodo": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Legalisierung": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Legalizeit": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#FinCENFiles": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#AlarmstufeRot": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#TvÖD": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Kurzarbeit": {
+		"total": 6,
+		"dieLinke": 1,
+		"spdde": 5
+	},
+	"#Stellenabbau": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Linksbewegt": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Herbstferien": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Nahverkehr": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Kampfdrohnen": {
+		"total": 4,
+		"dieLinke": 3,
+		"jusos": 1
+	},
+	"#Wildau": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Kommunalpolitik": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#DeutscheEinheit": {
+		"total": 8,
+		"dieLinke": 1,
+		"jungeliberale": 1,
+		"spdde": 6
+	},
+	"#MundNasenSchutz": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Dividende": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Porsche": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Piech": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#DannenröderWald": {
+		"total": 2,
+		"dieLinke": 1,
+		"gruene_jugend": 1
+	},
+	"#deutscheeinheit": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Gesundheitsministerkonferenz": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Streik": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#unverzichtbar": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Warnstreik": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#verdi": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Krankenhaus": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Fallpauschalen": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#FridaysForFuture": {
+		"total": 2,
+		"dieLinke": 1,
+		"gruene_jugend": 1
+	},
+	"#Klimakrise": {
+		"total": 7,
+		"dieLinke": 2,
+		"Die_Gruenen": 2,
+		"gruene_jugend": 1,
+		"jungeliberale": 1,
+		"jusos": 1
+	},
+	"#TVN2020": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#VierTageWoche": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#4TageWoche": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Arbeit": {
+		"total": 2,
+		"dieLinke": 1,
+		"fdp": 1
+	},
+	"#Waffenexporte": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Rüstungsexporte": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Sozialstaat": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Grundeinkommen": {
+		"total": 2,
+		"dieLinke": 1,
+		"jusos": 1
+	},
+	"#Post": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Weltfriedenstag": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Überhangmandate": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Arbeitszeitverkürzung": {
+		"total": 3,
+		"dieLinke": 3
+	},
+	"#Eiskaffee": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Arbeitszeit": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#CoronaVirus": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Bisky": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#berlindirekt": {
+		"total": 2,
+		"dieLinke": 1,
+		"spdde": 1
+	},
+	"#b0108": {
+		"total": 2,
+		"dieLinke": 1,
+		"lijusolid": 1
+	},
+	"#r2g": {
+		"total": 2,
+		"dieLinke": 1,
+		"Junge_Union": 1
+	},
+	"#sozialeMehrheiten": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Kinderfreibetrag": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Werkverträge": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Werkverträgen": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Asklepios": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Ärztemangel": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#DIELINKE": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#NatsAnalyse": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Hartz4istArmutperGesetz": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Blog": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Weblog": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#NSU20": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Baydar": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Genozid": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Kriegsverbrechen": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Nazis": {
+		"total": 2,
+		"dieLinke": 1,
+		"linkesds": 1
+	},
+	"#Seenotrettung": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#GrosseKohleKoalition": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#CSD2020": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#UNCharta": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Thiele": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Sommerferien": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Tönnies": {
+		"total": 7,
+		"dieLinke": 4,
+		"fdp": 1,
+		"gruene_jugend": 1,
+		"lijusolid": 1
+	},
+	"#FestderLinken": {
+		"total": 12,
+		"dieLinke": 12
+	},
+	"#HipHop": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Verkehrswende": {
+		"total": 3,
+		"dieLinke": 2,
+		"jusos": 1
+	},
+	"#Kuba": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Empowerment": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Musik": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Galeria": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Kaufhof": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Karstadt": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#RacialProfiling": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Superspreader": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#17Juni": {
+		"total": 2,
+		"dieLinke": 1,
+		"JA_Deutschland": 1
+	},
+	"#Gesundheitsminister": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#GuteKitaGesetz": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#banddersolidariraet": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#SoGehtSolidarisch": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#DieLinke": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#unteilbar": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#deutschebahn": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Sexarbeit": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#DeutscheWohnen": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Mietenwahnsinn": {
+		"total": 3,
+		"dieLinke": 3
+	},
+	"#Abwrackprämie": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Mobilitätsprämie": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Lübcke": {
+		"total": 3,
+		"dieLinke": 1,
+		"gruene_jugend": 1,
+		"jusos": 1
+	},
+	"#Menschenkette": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Antifaschismus": {
+		"total": 4,
+		"dieLinke": 4
+	},
+	"#Klimapolitik": {
+		"total": 3,
+		"dieLinke": 2,
+		"jusos": 1
+	},
+	"#linkswirkt": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#mietendeckel": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#NieMehrCDU": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Mindestlöhne": {
+		"total": 2,
+		"dieLinke": 1,
+		"spdde": 1
+	},
+	"#Coronapandemie": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Antikapitalismus": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Schlachthof": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Verschwörungtheorien": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#LGBTI": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Steuerschätzung": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#TagderPflege": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Krankenpfleger": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Charité": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Coroni": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#hartaberfair": {
+		"total": 2,
+		"dieLinke": 1,
+		"spdde": 1
+	},
+	"#Hessen": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#8Mai1945": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Autokonzerne": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#1Mai": {
+		"total": 2,
+		"dieLinke": 1,
+		"fdp": 1
+	},
+	"#SolidarischNichtAlleine": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#systemrelevant": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#WirSindNichtEureKulisse": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#RosaLuxAntwortet": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Klimastreik": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#NetzstreikFürsKlima": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#420day": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#8Mai": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Petition": {
+		"total": 2,
+		"dieLinke": 1,
+		"jungeliberale": 1
+	},
+	"#TagderBefreiung": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Leopoldina": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Friedenspolitik": {
+		"total": 2,
+		"dieLinke": 1,
+		"linkesds": 1
+	},
+	"#Ostermarsch": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Befreiung": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Buchenwald": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Diäten": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Griechenland": {
+		"total": 3,
+		"dieLinke": 2,
+		"lijusolid": 1
+	},
+	"#Flüchtlingskinder": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#Weltgesundheitstag": {
+		"total": 3,
+		"dieLinke": 2,
+		"fdp": 1
+	},
+	"#Krankenkasse": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Krankenversicherung": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#SocialDistancing": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Flüchtlingslager": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Moira": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Vermögenssteuer": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#HousingActionDay": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Mietwahnsinn": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#LINKEN": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#ALDI": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#LIDL": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#COVIDー19": {
+		"total": 2,
+		"dieLinke": 1,
+		"Die_Gruenen": 1
+	},
+	"#Maischberger": {
+		"total": 2,
+		"dieLinke": 1,
+		"spdde": 1
+	},
+	"#Frauenkampftag": {
+		"total": 2,
+		"dieLinke": 1,
+		"gruene_jugend": 1
+	},
+	"#ClaraZetkinPreis": {
+		"total": 5,
+		"dieLinke": 5
+	},
+	"#keinhandschlag": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Strategiekonferenz": {
+		"total": 7,
+		"dieLinke": 7
+	},
+	"#LINKEStrategie": {
+		"total": 9,
+		"dieLinke": 9
+	},
+	"#GreenNewDeal": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#LinkeStrategie": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Elbvertiefung": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Neoliberalismus": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Bundestagswahl": {
+		"total": 2,
+		"dieLinke": 1,
+		"jusos": 1
+	},
+	"#Vermögensumverteilung": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Rechtsterrorismus": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#LINKEStratgie": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Startegiekonferenz": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Kassel": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#PAM2020": {
+		"total": 5,
+		"dieLinke": 5
+	},
+	"#Passau": {
+		"total": 2,
+		"dieLinke": 2
+	},
+	"#annewill": {
+		"total": 2,
+		"dieLinke": 1,
+		"spdde": 1
+	},
+	"#HamburgWahl": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#HHWahl": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#HHWahl2020": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#LinkeLPT": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#NSU": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Sicherheitskonferenz": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#OneBillionRising": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#sanktionsfrei": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#KrampKarrenbauer": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#Dammbruch": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#noafd": {
+		"total": 2,
+		"dieLinke": 1,
+		"jusos": 1
+	},
+	"#Mietenstopp": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#KemmerichRuecktritt": {
+		"total": 1,
+		"dieLinke": 1
+	},
+	"#MachtBürosZu": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#TransatlantischeAgenda": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Atomwaffenverbotsvertrag": {
+		"total": 3,
+		"Die_Gruenen": 1,
+		"gruene_jugend": 1,
+		"linkesds": 1
+	},
+	"#Digitalkonzernsteuer": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Vielfaltsstatut": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#dbdk20": {
+		"total": 25,
+		"Die_Gruenen": 25
+	},
+	"#Windenergie": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#WeltAidsTag": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#BidenHarris2020": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#whocares": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Bundesfrauenkonferenz": {
+		"total": 4,
+		"Die_Gruenen": 4
+	},
+	"#bfk": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Atomenergie": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Nordstream2": {
+		"total": 2,
+		"Die_Gruenen": 1,
+		"gruene_jugend": 1
+	},
+	"#Hitzeplan": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Lieferkettengesetz": {
+		"total": 9,
+		"Die_Gruenen": 1,
+		"jusos": 4,
+		"spdde": 4
+	},
+	"#Existenzgeld": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#grundsatz2020": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Kastenstand": {
+		"total": 4,
+		"Die_Gruenen": 4
+	},
+	"#Klimapräsidentschaft": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#AGVielfalt": {
+		"total": 5,
+		"Die_Gruenen": 5
+	},
+	"#Grundsatz2020": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#PGS20": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Billigfleisch": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#BlackOutTuesday": {
+		"total": 2,
+		"Die_Gruenen": 1,
+		"jungeliberale": 1
+	},
+	"#Schlachthöfe": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Feminismus": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Europatag": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#TagDerBefreiung": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Länderrat": {
+		"total": 10,
+		"Die_Gruenen": 7,
+		"gruene_jugend": 3
+	},
+	"#ausgruenden": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Coronabonds": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Pandemiewirtschaft": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#weareinthistogether": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Covid_19": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#umschalten": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Covid2019DE": {
+		"total": 2,
+		"Die_Gruenen": 2
+	},
+	"#Covid19DE": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Frauentag": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Lesbos": {
+		"total": 2,
+		"Die_Gruenen": 1,
+		"gruene_jugend": 1
+	},
+	"#Hamburgwahl": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Klimawahl": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#hanau": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#NichtMitUns": {
+		"total": 2,
+		"Die_Gruenen": 1,
+		"jusos": 1
+	},
+	"#Kohlekompromiss": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Agrarwende": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#40JahreGrüne": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#Artenvielfalt": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#buescha2020": {
+		"total": 1,
+		"Die_Gruenen": 1
+	},
+	"#nextGeneration": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Livestream": {
+		"total": 6,
+		"fdp": 6
+	},
+	"#kickstart21": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Buko": {
+		"total": 2,
+		"fdp": 1,
+		"jusos": 1
+	},
+	"#SeiDabei": {
+		"total": 10,
+		"fdp": 10
+	},
+	"#buko": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#FollowFriday": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#FF": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#ltwrp": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Fortschritt": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#3K21": {
+		"total": 25,
+		"fdp": 24,
+		"jungeliberale": 1
+	},
+	"#WeltbesteBildung": {
+		"total": 3,
+		"fdp": 3
+	},
+	"#Novemberhilfen": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Bewegungsradius": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Kompetenz": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Marktwirtschaft": {
+		"total": 2,
+		"fdp": 1,
+		"jungeliberale": 1
+	},
+	"#Wettbewerb": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#3k21": {
+		"total": 3,
+		"fdp": 3
+	},
+	"#Minsk": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Hongkong": {
+		"total": 6,
+		"fdp": 3,
+		"jungeliberale": 3
+	},
+	"#Eigenverantwortung": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Dreikönig": {
+		"total": 4,
+		"fdp": 4
+	},
+	"#Liverstream": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#digitale": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Hohoho": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Xmas": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#MerryChristmas2020": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#BioNTech": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#twitch": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#twitchtv": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#TwitchDE": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#FreieDemokratenWeil": {
+		"total": 2,
+		"fdp": 1,
+		"jungeliberale": 1
+	},
+	"#Genscher": {
+		"total": 4,
+		"fdp": 4
+	},
+	"#Rückblick": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Prag": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#hüskens": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#BPT20": {
+		"total": 5,
+		"fdp": 5
+	},
+	"#Aufbruch": {
+		"total": 18,
+		"fdp": 18
+	},
+	"#Youtube": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Playlist": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#MissionAufbruch": {
+		"total": 3,
+		"fdp": 3
+	},
+	"#aufbruch": {
+		"total": 24,
+		"fdp": 24
+	},
+	"#bpt20": {
+		"total": 54,
+		"fdp": 54
+	},
+	"#Wischhusen": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Wirtschaftskrise": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#BTP20": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#bpt": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#SoGehtDigitalisierung": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Selfie": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Russland": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#jetztmitgliedwerden": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Lohnsteuer": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Wirtschaftswunder": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Virus": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Sicherheitsabstand": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Maske": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Abstandhalten": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Heutevor30Jahren": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#2plus4": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Modernisierungspaket": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Programmkonvent": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#DigitalerJobgipfel": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Steuersystem": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#MailinVotingForDummies": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#VoteByMail2020": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Potus": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#MDGA": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Zentralrat70": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Ratspraesidentschaft": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#17juni1953": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Digitaltag20": {
+		"total": 3,
+		"fdp": 3
+	},
+	"#digitaltag20": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#blutistblut": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Bildungskrise": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#blackouttuesday": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#blacklivesmatter": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Rechtsstaats": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#BlackLivesMatter": {
+		"total": 4,
+		"fdp": 1,
+		"Junge_Union": 1,
+		"jusos": 2
+	},
+	"#GeorgeFloyd": {
+		"total": 3,
+		"fdp": 1,
+		"gruene_jugend": 1,
+		"jusos": 1
+	},
+	"#freieGesellschaft": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#HongKong": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Selbständige": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Leitbild": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Webtalk": {
+		"total": 3,
+		"fdp": 3
+	},
+	"#Selbstständige": {
+		"total": 3,
+		"fdp": 3
+	},
+	"#loveislove": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#TagDerFamilie": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#CoronasVirus": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Isolation": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#tagderpressefreiheit": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#COVID19de": {
+		"total": 13,
+		"fdp": 13
+	},
+	"#Frühjahrsprognose": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#schuloeffnung": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#NeuesFormat": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#FroheOstern": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#BleibtGesund": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#BleibtZuhause": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Neumitgliedertreffen": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Covid19de": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Kinderbuchtag": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#covid19de": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Krisenkommunikation": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Soforthilfe": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Covid2019": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#COVID2019": {
+		"total": 2,
+		"fdp": 2
+	},
+	"#Westerwelle": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#Hirsch": {
+		"total": 1,
+		"fdp": 1
+	},
+	"#ZeroCovid": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#OuryJalloh": {
+		"total": 2,
+		"gruene_jugend": 1,
+		"linkesds": 1
+	},
+	"#tagdermenschenrechte": {
+		"total": 2,
+		"gruene_jugend": 1,
+		"jungeliberale": 1
+	},
+	"#DBDK20": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#le0711": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#GJBuKo": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#BER": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#gjbuko": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#AbtreibungIstGrundversorgung": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#NRWE": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Polizeigewalt": {
+		"total": 3,
+		"gruene_jugend": 2,
+		"lijusolid": 1
+	},
+	"#EndeGelände": {
+		"total": 2,
+		"gruene_jugend": 2
+	},
+	"#Dreizehntausend": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Kinderarmut": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Frankfurt": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Datteln4": {
+		"total": 3,
+		"gruene_jugend": 3
+	},
+	"#KSK": {
+		"total": 2,
+		"gruene_jugend": 1,
+		"jusos": 1
+	},
+	"#IDAHOBIT": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#InklusionJetzt": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#WirsindAntifa": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Palmer": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#FightEveryCrisis": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Frühjahrskongress": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Orban": {
+		"total": 2,
+		"gruene_jugend": 1,
+		"jungeliberale": 1
+	},
+	"#EarthHour": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#NetzstreikFuersKlima": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#XavierNaidoo": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Fukushima": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Hoecke": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#WirHabenPlatz": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#HamburgwähltKlima": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#NichtmitUns": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Nichtmituns": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#RegierenFirstBedenkenSecond": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Bremen": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#HolocaustGedenktag": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#Steuerüberschuss": {
+		"total": 1,
+		"gruene_jugend": 1
+	},
+	"#150JahreReichsgründung": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Neuland": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#homeschooling": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Hauptstadtpatrioten": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Julis": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#geschwisterliebe": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Mauerfall": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Paris": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Chebli": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Gold": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#verfassungsschutz": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Somuncu": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Nawalnys": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Tagesschau": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Interview": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#20Juli1944": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Bento": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Floyd": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Realsatire": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#GeorgeFloydProtests": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Joldstücke": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#AllLivesMatter": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#JusticeForGeorgeFlyod": {
+		"total": 2,
+		"JA_Deutschland": 2
+	},
+	"#Herz": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Vatertag": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#JKLive": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#maennerwelten": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#jokoundklaas": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Muttertag": {
+		"total": 2,
+		"JA_Deutschland": 2
+	},
+	"#migrantifa": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#75JahreKriegsende": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Kahrs": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Staatsmann": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#125jahre": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Überzeugungsarbeit": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#weltdownsyndromtag": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Bundesverfassungsgericht": {
+		"total": 2,
+		"JA_Deutschland": 1,
+		"jusos": 1
+	},
+	"#Rechts": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#UnwortdesJahres": {
+		"total": 1,
+		"JA_Deutschland": 1
+	},
+	"#Taiwan": {
+		"total": 3,
+		"jungeliberale": 3
+	},
+	"#Kickstart21": {
+		"total": 5,
+		"jungeliberale": 5
+	},
+	"#bogaziciuniversity": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Inauguration": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#BTW21": {
+		"total": 2,
+		"jungeliberale": 1,
+		"jusos": 1
+	},
+	"#BAföG": {
+		"total": 2,
+		"jungeliberale": 2
+	},
+	"#Erasmus": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Einwanderungsland": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#LGBT": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Konfuzius": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Thanksgiving": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Verschlüsselung": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#HappyHalloween2020": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Schwarzbuch": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#FrankfurterBuchmesse": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Buchpreisbindung": {
+		"total": 2,
+		"jungeliberale": 2
+	},
+	"#Johnson": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Jugendwortdesjahres": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#handwashingday": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Konversionsverfahren": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Welthundetag": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Haushaltwoche": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Wahlrechtab16": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Wahlalter16": {
+		"total": 3,
+		"jungeliberale": 3
+	},
+	"#Arzneimittelversorgung": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Navalny": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Einigungsvertrag": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#BuKo60": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Gamescom2020": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Reiseverbot": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Atombombe": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Hiroshima": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Beirut": {
+		"total": 2,
+		"jungeliberale": 1,
+		"jusos": 1
+	},
+	"#AirBnB": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Wahlalter": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#ÖRR": {
+		"total": 3,
+		"jungeliberale": 2,
+		"jusos": 1
+	},
+	"#IstanbulKonvention": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Vorratsdatenspeicherung": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Sonntag": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Kinder": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Dorfkind": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#NelsonMandela": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#emojiday": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#ESport": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Sport": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Olympia": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#TagdesKusses": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#GlobalPride": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Selbstbestimmung": {
+		"total": 2,
+		"jungeliberale": 2
+	},
+	"#Fernsehtipp": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Truppe": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Organspendeausweis": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Tiananmen": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Rentensystem": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#LegalizeIt": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Eurokrise": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Blutspendeverbot": {
+		"total": 2,
+		"jungeliberale": 2
+	},
+	"#Sicherheitsgesetz": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Peking": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Völkerrechtsbruch": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Maennertag": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Konversionstherapie": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Journalisten": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Studierenden": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Abitur": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Hanf": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#stayhome": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Chancen": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Tanzverbot": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Sommersemester": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Urlaubssemester": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Aprilscherze": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#TransDayOfVisibility": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Trans": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#GirlsDay": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#coronavirus": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Ausgangssperre": {
+		"total": 2,
+		"jungeliberale": 1,
+		"lijusolid": 1
+	},
+	"#Blutkonserven": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Streaming": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Tibet": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Finanztransaktionssteuer": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#klimaneutral": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Zertifikaten": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Frauen": {
+		"total": 2,
+		"jungeliberale": 1,
+		"Junge_Union": 1
+	},
+	"#Bundeverfassungsgericht": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Sterbehilfe": {
+		"total": 2,
+		"jungeliberale": 2
+	},
+	"#QuotensindMist": {
+		"total": 2,
+		"jungeliberale": 2
+	},
+	"#Quoten": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Wohnungsmangel": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#AKKRücktritt": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Bonpflicht": {
+		"total": 2,
+		"jungeliberale": 2
+	},
+	"#dollypartonchallenge": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Geschwindigkeitsüberwachung": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#TagderKäseliebhaber": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Klarnamenpflicht": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Testsieger": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Emissionshandel": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Jubiläum": {
+		"total": 1,
+		"jungeliberale": 1
+	},
+	"#Ehrenwohli": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#dwmwg": {
+		"total": 4,
+		"Junge_Union": 4
+	},
+	"#CDUBPT21": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#SichereChats": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Generalschlüssel": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Backdoor": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#SUPERWOMANDAY": {
+		"total": 2,
+		"Junge_Union": 2
+	},
+	"#Yzer": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Politiker": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Trier": {
+		"total": 2,
+		"Junge_Union": 1,
+		"spdde": 1
+	},
+	"#Nopper": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#OBWahlStuttgart2020": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#dlt20": {
+		"total": 23,
+		"Junge_Union": 23
+	},
+	"#Sneakerkonservativismus": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#presseclub": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#ZUKUNFSTMODUSAN": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#wachhalten": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#9Nov": {
+		"total": 2,
+		"Junge_Union": 2
+	},
+	"#Stolpersteine": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Republik": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Erbschaftssteuer": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#jupitch": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#JUPITCH": {
+		"total": 11,
+		"Junge_Union": 11
+	},
+	"#modernerKonservatismus": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Medientipp": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#JUpitch": {
+		"total": 2,
+		"Junge_Union": 2
+	},
+	"#JUPitch": {
+		"total": 2,
+		"Junge_Union": 2
+	},
+	"#JU": {
+		"total": 3,
+		"Junge_Union": 2,
+		"jusos": 1
+	},
+	"#autobahn": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#baustopp": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#cdupt19": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Berufsstarter": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#mittagsmagazin": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Alltagsrassismus": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Hisbollah": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#DDHZS": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#WhatsApp": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Einkaufen": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#BestofSaskia": {
+		"total": 1,
+		"Junge_Union": 1
+	},
+	"#Rechtsradikalen": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#weremember": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#niewieder": {
+		"total": 2,
+		"jusos": 2
+	},
+	"#Populismus": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#TumpsLastDay": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Projektmanagement": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Community": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Bierdeckel": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Jusos": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Juso": {
+		"total": 6,
+		"jusos": 6
+	},
+	"#Bundeskongress": {
+		"total": 7,
+		"jusos": 6,
+		"linkesds": 1
+	},
+	"#QAnon": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Reichsbürger": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Präsident": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Kabinett": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Union": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Debattencamp": {
+		"total": 2,
+		"jusos": 1,
+		"spdde": 1
+	},
+	"#Ausbildungsplatzgarantie": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Auszubildende": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Uploadfilter": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Rundfunkbeitrags": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#BGE": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Jobgarantie": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Leitantrag": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Btw21": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Ermächtigungsgesetz": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#StabilGegenRechts": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Caffier": {
+		"total": 2,
+		"jusos": 1,
+		"lijusolid": 1
+	},
+	"#Jugendbericht": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Rechtsradikalismus": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Harris": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Geheimdienste": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#WeltStatistikTag": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#gefühlteFakten": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Rassimusstudie": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#maskeauf": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Jugendkonferenz2020": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#digital": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Polizeiproblem": {
+		"total": 2,
+		"jusos": 1,
+		"lijusolid": 1
+	},
+	"#debate2020": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#SichereHäfen": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Olaf": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Ausbildung": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Oslo": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#EuGipfel": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#GeizigenVier": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#geizigenVier": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Kretschmann": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Stammbaumforschung": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Gleichstellung": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Kohle": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Hammelsprung": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Toennies": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Ben": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Generalverdacht": {
+		"total": 3,
+		"jusos": 3
+	},
+	"#GdP": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#CSD": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#SilentDemo": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Ausbildungsbonus": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Twitch": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#LGBTQI": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#studihilfejetzt": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#silentdemo": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Gerechtigkeit": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Grundsicherung": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Autolobby": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Mehrwertsteuersenkung": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Abfckprämie": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Radwege": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#umweltschädliche": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#zuhause": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#ALGII": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#stattblumen": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#StudierendenUnterstützungsGesetz": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Lesobos": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Linder": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Neuwahl": {
+		"total": 2,
+		"jusos": 2
+	},
+	"#Afd": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Faschismus": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#Sarrazin": {
+		"total": 1,
+		"jusos": 1
+	},
+	"#219a": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#Fatah": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#ljsbuko20": {
+		"total": 2,
+		"lijusolid": 2
+	},
+	"#LJSBuko20": {
+		"total": 4,
+		"lijusolid": 4
+	},
+	"#Einzelfall": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#NordStream2": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#Covidioten": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#ToenniesEnteignen": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#Heimatschutz": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#Stinkefinger": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#Schröder": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#Pride": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#PRIDE2020": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#Weltordnung": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#adidas": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#Kontaktverbot": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#sorrywemissedyou": {
+		"total": 1,
+		"lijusolid": 1
+	},
+	"#AVV": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Amerika": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Dessauer": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Genossin": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Klassenkampf": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#streik": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#wirGedenken": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Opfern": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Hochschule": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Wohnen": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Menschenrecht": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#gleicher": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Fritzi": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Hanau2208": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#SayTheirNames": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Hofierung": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#8M2020": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#8M": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#GrenzenAuf": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#LebenRetten": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#dd1502": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#ef1502": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#afdp": {
+		"total": 1,
+		"linkesds": 1
+	},
+	"#Ostklausur": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Dreyer": {
+		"total": 3,
+		"spdde": 3
+	},
+	"#RadioNowabo": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#Impfgipfel": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#prosiebenlive": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#WirMitIhr": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#wirhaltenzusammen": {
+		"total": 3,
+		"spdde": 3
+	},
+	"#SozialePolitikFürDich": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#Rau": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#SozialePolitikfürDich": {
+		"total": 8,
+		"spdde": 8
+	},
+	"#CapitolRiots": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Washington": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Arbeitsschutzkontrollgesetz": {
+		"total": 4,
+		"spdde": 4
+	},
+	"#wetterberichtigung": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Spaltung": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Steuergerechtigkeit": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#spddc20": {
+		"total": 17,
+		"spdde": 17
+	},
+	"#EEG": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#ParisAgreement": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#SPDDC20": {
+		"total": 27,
+		"spdde": 27
+	},
+	"#SPDDC2020": {
+		"total": 4,
+		"spdde": 4
+	},
+	"#spddc2020": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#spddc": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#50JahreKniefall": {
+		"total": 11,
+		"spdde": 11
+	},
+	"#malu21": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#spdrlp": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Klimakabinett": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Dezemberhilfe": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#LPTdigital": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#LPT20": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#BildungaberSicher": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Pflegefachkräfte": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#guteIdee": {
+		"total": 4,
+		"spdde": 4
+	},
+	"#WellenbrecherShutdown": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Wellenbrechershutdown": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#ZukunftEuropa": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#UgurSahin": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#oezlemtuereci": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#WiKo20": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#Elections2020": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#USAelection2020": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#lanz": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#wellenbrecher": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#WellenBrecher": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#KulturhauptstadtEuropas2025": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Rassismusstudie": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#telegram": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#ichwill": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#FüPoG": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#SozialDigital": {
+		"total": 4,
+		"spdde": 4
+	},
+	"#WebEx": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Mindestsicherung": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Jugendgarantie": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#FFF": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#wasSozissagen": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Neuinfektionen": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#Bafin": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#MobileArbeit": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#Digitalkongress": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#sozialdigital": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#JustSaying": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Haushalt2021": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#meineEinheitsgeschichte": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Haushalt": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#P7Spezial": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#GeldInDieHand": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Spitzengespräch": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Giffey": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#SozenWirtschaft": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Wellenbrecher": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#MySocialEurope": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Kommunalwahlen2020": {
+		"total": 2,
+		"spdde": 2
+	},
+	"#NRWKommunalwahl2020": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Zukunftsdialog": {
+		"total": 5,
+		"spdde": 5
+	},
+	"#GenderCareGap": {
+		"total": 1,
+		"spdde": 1
+	},
+	"#Zukunftdialog": {
+		"total": 1,
+		"spdde": 1
+	}
+}
